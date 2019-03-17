@@ -1,1 +1,1 @@
-[Ссылка] (IS.github.io)
+[Ссылка](IS.github.io)
