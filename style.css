@@ -1,0 +1,32 @@
+form input {
+ padding: 10px 10px;
+ border: 1.8px solid #14dc70;    
+ border-radius: 0.2em;
+ margin: 7px 0px;
+ font-size: 20px;
+ width: 350px;
+ text-align: center;
+}
+form button {
+    font-size: 20px;
+    width: 351px;
+    border: 1.8px solid #14dc70;    
+    border-radius: 0.2em;
+    background-color: #14dc70;
+    margin: 7px 0px;
+    padding: 10px 10px;
+    transition: all 0.3s ease-out;
+}
+
+form button:hover {
+    cursor: pointer;
+    border: 1.8px solid #4ef89d;    
+    background-color: #4ef89d;
+    transition: all 0.3s ease-out;
+}
+
+p {
+    font-family:monospace;
+    font-size: 23px;
+    text-align: center;
+}
